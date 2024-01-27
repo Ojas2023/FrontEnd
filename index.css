@@ -1,0 +1,37 @@
+body{
+    background-image:url("https://img.freepik.com/premium-photo/cup-hot-coffee-latte-table-cafe-with-shallow-depth-field_258743-129.jpg?w=1060");
+    background-size:cover;
+    text-align: center;
+    padding: 10vw 10vw 10vw 10vw;
+}
+.container{
+    display:flex;
+    text-align: center;
+    flex-direction: column;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+    color:black;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: -1px;
+    border-radius:5px;
+    border-color: black;
+    border-style: double;
+    padding:3vw;
+    margin-top:0.85vw;
+    margin-left:20vw;
+    width:35vw;
+    height:20vw;
+    }
+#btn{
+    width:20vw;
+    height:20vh;
+    background:skyblue;
+    text-align: center;
+    font-size:large;
+    padding:1.2vw;
+    color:white;
+    font-weight:bold;
+    font-family: cursive;
+}
